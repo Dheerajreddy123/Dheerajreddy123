@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dheerajreddy123
-- 👀 I’m interested in ...Web development and Android development 
-- 🌱 I’m currently learning ...DSA WITH JAVA In coding ninjas
-- 💞️ I’m currently pursuing my B tech 2 nd year IT branch in VIT Vellore 
+- 👀 I am DSA enthusiat .. currently exploring  java script react js ,Node js 
+- 💞️ I’m currently pursuing my B tech 4 th year IT branch in VIT Vellore 
 - 📫 How to reach me ...@dheeraj_u_r_friend instagram
 
 <!---
